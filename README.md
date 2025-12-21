@@ -43,4 +43,4 @@
 - Установленный Google Chrome
 
 ## Лицензия
-Проект распространяется по лицензии **PolyForm Noncommercial 1.0.0** (см. [LICENSE](LICENSE)).
+Проект распространяется по лицензии **GNU General Public License v3.0** (см. [LICENSE](LICENSE)).
