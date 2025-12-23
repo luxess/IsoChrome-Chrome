@@ -83,14 +83,6 @@ IsoChrome помогает держать разные “контексты” 
 
 - журнал запусков и быстрый повторный запуск.
 
-## Скриншоты
-
-Добавь сюда изображения для GitHub:
-
-- `docs/screenshots/main.png`
-- `docs/screenshots/bookmarks.png`
-- `docs/screenshots/profiles.png`
-
 ## Требования
 
 - Windows 10/11
